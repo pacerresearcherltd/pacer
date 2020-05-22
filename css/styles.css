@@ -196,12 +196,9 @@ p {
  
  body {
     text-align: center;
+    width: 100%;
   }
-  p{
-    text-align: left;
-   
-        width: 100%;
-  }
+ 
 
   .title-image {
     position: static;
